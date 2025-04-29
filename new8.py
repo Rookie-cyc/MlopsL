@@ -42,7 +42,7 @@ def generate_random_data():
 if __name__ == "__main__":
     logger.info("Monitoring and Logging Application Started.")
 
-    #edited
+    #edited  #edited   #edited
     try:
         generate_random_data()
     except Exception as e:
