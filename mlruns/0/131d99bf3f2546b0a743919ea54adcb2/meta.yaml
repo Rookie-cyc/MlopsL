@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/srini/3mlops/exp8/mlruns/0/131d99bf3f2546b0a743919ea54adcb2/artifacts
+end_time: 1744649552475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 131d99bf3f2546b0a743919ea54adcb2
+run_name: rebellious-fish-826
+run_uuid: 131d99bf3f2546b0a743919ea54adcb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744649378326
+status: 4
+tags: []
+user_id: srini

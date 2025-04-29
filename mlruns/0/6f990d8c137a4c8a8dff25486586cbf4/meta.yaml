@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/srini/3mlops/exp8/mlruns/0/6f990d8c137a4c8a8dff25486586cbf4/artifacts
+end_time: 1744624610236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f990d8c137a4c8a8dff25486586cbf4
+run_name: mercurial-panda-472
+run_uuid: 6f990d8c137a4c8a8dff25486586cbf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744624191430
+status: 4
+tags: []
+user_id: srini
